@@ -10,14 +10,14 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAEJlR9giNcPJke9BKSpQhP0zaOgf3z-KQACAQADFlyeOsyiWLhvkgt7HwQ")
+    await message.reply_sticker("CAACAgUAAxkBAAIlNGC80TL4GJj2Paf23Bf5r2SYPl8KAAMCAAIu_elVEfsHEgV4Kg4fBA")
     await message.reply_text(
         f"""⚜️<b>Hi {message.from_user.first_name}!⚜️
 
-⚜️ I am PRINCE_MUSIC_BOT VC Music Player, an open-source bot that lets you play music in your Telegram groups.
-Maintained by @Prince_3011 ❤
+⚜️ I am BhojpuriChatbot VC Music Player, an open-source bot that lets you play music in your Telegram groups.
+Maintained by @noob567 ❤
 
-⚜️ For source code Join our support group @PRINCE_MUSIC_CHATS.
+⚜️ For source code Join our support group https://t.me/bhojpuriduniya486.
 
 ⚜️ Use the buttons below to know more about me.
  </b>""",
@@ -27,24 +27,19 @@ Maintained by @Prince_3011 ❤
             [
                 [
                     InlineKeyboardButton(
-                        "Command", url="https://t.me/PRINCEBOTS/4",
+                        "Command", url="https://t.me/bhojpuriduniya486",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/PRINCEBOTSUPPORT"
+                        "💬 Group", url="https://t.me/bhojpuriduniya486"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/princebots"
+                        "🔊 Channel", url="https://t.me/bhojpuri_videos"
                     ),
                     InlineKeyboardButton(
-                        "😍 Credit", url="https://t.me/prince_3011"
+                        "😍 Credit", url="https://t.me/swatiki"
                     )
-                ],
-                [
-                    InlineKeyboardButton(
-                        "📒TUTORIAL SCREENSHOT", url="https://t.me/joinchat/Ng0hJTU9SxcyNjdl"
-                    ) 
                 ]
             ]
         )
@@ -61,7 +56,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/princebots"
+                        "🔊 Channel", url="https://t.me/bhojpuri_videos"
                     )
                 ],    
                 [    
@@ -110,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/princebots"
+                        "🔊 Channel", url="https://t.me/bhojpuri_videos"
                     )
                 ]
             ]
