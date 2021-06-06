@@ -1,8 +1,5 @@
 
 
-<p align="center">
-  <img src="https://telegra.ph/file/cda084c19e69069f5e0ec.jpg">
-</p>
 
 # How To Host
 The easiest way to deploy this Bot
