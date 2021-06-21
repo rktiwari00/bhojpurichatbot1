@@ -8,6 +8,6 @@ from pyrogram.types import Chat, Message, User
 
 async def pmPermit(client: USER, message: Message):
 
-  await USER.send_message(message.chat.id,"THIS IS MUSIC BOT ASSISTANT CONTACT ME ON @TERABAAP_DEVIL")
+  await USER.send_message(message.chat.id,"I am here for a purpose you don't know. Please ask my master @noob567 before talking to me.")
 
   return
