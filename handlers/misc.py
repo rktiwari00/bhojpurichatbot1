@@ -20,4 +20,4 @@ HELP_TEXT = """<b>Hi {message.from_user.first_name}!
  </b>""",
 
 REPO_TEXT = "[Github](https://github.com)" \
-            + " | [Group](t.me/maharashtrafriendcircle)"
+            + " | [Group](https://t.me/bhojpuriduniya486)"
