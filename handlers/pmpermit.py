@@ -8,6 +8,6 @@ from pyrogram.types import Chat, Message, User
 
 async def pmPermit(client: USER, message: Message):
 
-  await USER.send_message(message.chat.id,"Please do not messege me. I am busy right now. I you want to support me then my UPI ID is ```rktiwari00@ybl```.")
+  await USER.send_message(message.chat.id,"Please do not messege me. I am busy right now./n If you want to support me then my UPI ID is ```rktiwari00@ybl```.")
 
   return
