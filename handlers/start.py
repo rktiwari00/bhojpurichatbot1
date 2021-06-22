@@ -15,7 +15,7 @@ async def start_(client: Client, message: Message):
         f"""⚜️<b>Hi {message.from_user.first_name}!⚜️
 
 ⚜️ I am BhojpuriChatbot VC Music Player, an open-source bot that lets you play music in your Telegram groups.
-Maintained by @noob567 ❤
+Maintained by @swatiki ❤
 
 ⚜️ For source code Join our support group https://t.me/bhojpuriduniya486.
 
