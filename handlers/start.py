@@ -27,7 +27,7 @@ Maintained by @noob567 ❤
             [
                 [
                     InlineKeyboardButton(
-                        "Command", url="https://t.me/bhojpuriduniya486",
+                        "Command", url="https://t.me/bhojpuriduniya486/8018",
                     )
                 ],
                 [
